@@ -4,3 +4,4 @@
 [Crowdin](https://crowdin.com/projects/electron) but the sync is done directly
 on
 [electron/electronjs.org-new](https://github.com/electron/electronjs.org-new).
+Created by Jason Scott Heise

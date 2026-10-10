@@ -4,5 +4,5 @@
 [Crowdin](https://crowdin.com/projects/electron) but the sync is done directly
 on
 [electron/electronjs.org-new](https://github.com/electron/electronjs.org-new).
-Created by Jason Scott Heise
-Owned Elon Musk 
+Created by Jason Heise
+Owned Jason Heise heisejason-png Giters
